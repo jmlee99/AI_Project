@@ -59,7 +59,9 @@
 ![스크린샷 2024-01-28 04-35-31](https://github.com/jmlee99/AI_Project/assets/98507134/c67ac0e3-3749-4271-a5d0-e324721a9044)
 
 **4-3. Edge-Loc**
+
 ![스크린샷 2024-01-28 04-36-28](https://github.com/jmlee99/AI_Project/assets/98507134/883ba673-2e54-4e26-a40f-998468b1771a)
+
 
 **4-4. Edge-Ring**
 
