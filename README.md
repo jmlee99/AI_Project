@@ -10,6 +10,14 @@
 **저는 모든 Shape을 다 사용하여 모델을 구현해보았습니다.**
 
 ---
+## 2. 🔬 Wafer FDC(Fault Detection & Classification)
+> 반도체 공정 실습에서 Fault Detection & Classification의 고도화의 필요성을 느끼고 진행한 개인 프로젝트
+> - 개발기간 : 2023.06.16 ~ 2023.07.14
+> - 핵심역할 : 개인, CNN을 사용한 반도체 고성능 FDC 개발
+>> - Language : Python3
+>> - Skill : numpy, pandas, seaborn, tensorflow, keras,scikit-learn
+>> - Tool : Jupyter Notebook
+---
 
 <br />
 
